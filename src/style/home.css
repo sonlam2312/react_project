@@ -1,0 +1,13 @@
+.profile,.logout{
+    color:white;
+    font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+    float:right;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+span{
+    display: inline-block;
+    margin-left: 10px;
+}

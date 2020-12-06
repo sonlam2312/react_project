@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  background-color:rgb(128, 49, 49);
+  color: #FFF;
+}
+.btn:hover{
+  background-color:rgb(233, 27, 27);
+  color: #FFF;
+}
+.col-xs-3{
+  overflow: visible;
+}
